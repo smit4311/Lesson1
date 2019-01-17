@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d("MainActivity", "Hello World");
         }
         catch(Exception e){
-            Log.d("app","Exception on Hello World! ",e);
+            Log.d("app","Exception on Hello World!",e);
         }
     }
 }
